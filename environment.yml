@@ -1,0 +1,11 @@
+name: musicapp
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - streamlit==1.29.0
+  - pandas==2.0.3
+  - plotly==5.18.0
+  - sqlalchemy==2.0.23
+  - pip
+    
